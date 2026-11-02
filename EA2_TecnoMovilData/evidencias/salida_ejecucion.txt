@@ -1,0 +1,39 @@
+TECNOMOVIL DATA
+Registros: 10000
+
+Afluencia por estacion:
+Centro: 1113
+Estadio: 1110
+Hospital: 1110
+Parque: 1110
+Terminal Norte: 1113
+Universidad: 1110
+
+Horas con mayor movimiento:
+08:00: 334
+15:00: 334
+22:00: 334
+02:00: 333
+05:00: 333
+
+Rutas mas utilizadas:
+RUTA-01: 2051
+RUTA-04: 1539
+RUTA-02: 1538
+RUTA-03: 1538
+
+Patrones de viaje:
+U001: [Centro, Estadio, Hospital, Terminal Norte, Parque, Universidad, Centro, Estadio]
+U002: [Terminal Norte, Parque, Universidad, Centro, Estadio, Hospital, Terminal Norte, Parque]
+U003: [Centro, Estadio, Hospital, Terminal Norte, Parque, Universidad, Centro, Centro]
+
+Tiempo promedio entre registros:
+14.00 minutos
+
+Estado de las rutas:
+RUTA-01: CRITICA
+RUTA-02: NORMAL
+RUTA-03: NORMAL
+RUTA-04: NORMAL
+
+La lista conserva 10000 registros.
